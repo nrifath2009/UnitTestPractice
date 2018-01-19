@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPractice", "UnitTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{FAFEB53A-CC80-411C-AA77-727937328ADD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "..\Development\Ex_Files_Csharp_TestDriven\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_01\Start\Polymorphism\Polymorphism\Polymorphism.csproj", "{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FAFEB53A-CC80-411C-AA77-727937328ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAFEB53A-CC80-411C-AA77-727937328ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAFEB53A-CC80-411C-AA77-727937328ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
